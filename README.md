@@ -2,4 +2,4 @@
 
 Built together with Milana Ivanova
 
-RandomForestClassifier that determines rock lithology and stratigraphy based on a private dataset (not publicly available). Developed for the hackathon: https://www.kaggle.com/competitions/gis-classification
+RandomForestClassifier that determines rock lithology and stratigraphy based on the dataset given by the organizers on Kaggle. Developed for the hackathon: https://www.kaggle.com/competitions/gis-classification
